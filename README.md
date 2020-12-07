@@ -9,7 +9,7 @@
 ### To-Do list of improvements:
 - [x] Get it to correctly predict a game (Said Bobby Fischer was winning in his legendary game!)
 - [ ] *Use a lot less RAM (better move encoding?)*
-- [ ] *Reduce loss / variable loss (more data / better move encoding?)*
+- [ ] *Reduce variable loss (more data / better move encoding?)*
 - [ ] *Better move encoding*
 - [ ] *Implement self-play or multiple neural networks (aka make my own budget MuZero)*
 
